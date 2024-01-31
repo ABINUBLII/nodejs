@@ -23,3 +23,5 @@ const waktu = moment().format();
 console.log(waktu);
 console.log(moment().format("dddd, DD MMMM YYYY, h:mm:ss a")); // selasa, 30 januari 2024 dan jam.
 console.log(moment().format("dddd")); // selasa.
+
+console.log("test doang");
