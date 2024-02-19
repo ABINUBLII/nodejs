@@ -26,3 +26,5 @@ router.get("/products", getAllProducts);
 router.get("/products/:id", getIdProducts);
 
 module.exports = router;
+
+console.log("hai");
